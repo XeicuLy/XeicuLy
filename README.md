@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeicuLy&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=XeicuLy&theme=tokyonight&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=XeicuLy&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **XeicuLy/XeicuLy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
