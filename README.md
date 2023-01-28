@@ -1,7 +1,16 @@
-<h1 align="center">Hi 👋, I'm XeicuLy</h1>
-<p align="center">A passionate frontend developer from Japan</p>
+<h1 align="left">Hi 👋, I'm XeicuLy</h1>
+<h3 align="left">A passionate frontend developer from Japan</h3>
 
 
-[![](https://raw.githubusercontent.com/XeicuLy/XeicuLy/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/XeicuLy/XeicuLy/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/XeicuLy/XeicuLy/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/XeicuLy/XeicuLy/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/XeicuLy/XeicuLy/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xeiculy&show_icons=true" height="150px" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeiculy&layout=compact" height="150px"/>
+</a>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Xeiculy&title=Joined2021,Commit,PullRequest,Repositories,,Stars,Issues" height="150px" />
+</a>
