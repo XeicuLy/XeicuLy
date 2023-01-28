@@ -6,7 +6,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XeicuLy&theme=tokyonight)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xeiculy&show_icons=true&theme=tokyonight&count_private=true" height="150px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xeiculy&show_icons=true&theme=tokyonight&count_private=true" height="150px"  />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -14,5 +14,5 @@
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Xeiculy&count_private=true&theme=onedark&title=Joined,Commit,PullRequest,Repositories,,Stars&margin-w=20" height="150px" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Xeiculy&count_private=true&theme=onedark&margin-w=20&no-frame=true" height="150px" />
 </a>
