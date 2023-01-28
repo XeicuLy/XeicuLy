@@ -14,5 +14,5 @@
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Xeiculy&count_private=true&theme=onedark&title=Joined2021,Commit,PullRequest,Repositories,,Stars&margin-w=20" height="150px" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Xeiculy&count_private=true&theme=onedark&title=Joined,Commit,PullRequest,Repositories,,Stars&margin-w=20" height="150px" />
 </a>
