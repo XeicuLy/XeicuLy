@@ -15,5 +15,5 @@
 <br>
 <br>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Xeiculy&count_private=true&theme=onedark&margin-w=20&no-frame=true&title=Commit,PR,Repo,Star&column=-1" height="150px" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Xeiculy&count_private=true&theme=onedark&margin-w=20&no-frame=true&title=Commit,PR,Repo,Issue&column=-1" height="150px" />
 </a>
