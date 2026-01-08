@@ -1,19 +1,23 @@
-<h1 align="left">Hi 👋, I'm XeicuLy</h1>
-<h3 align="left">A passionate frontend developer from Japan</h3>
+# XeicuLy's GitHub Profile
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XeicuLy&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=XeicuLy&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XeicuLy&theme=tokyonight&exclude=CSS)
+<!-- Profile Card -->
+<p align="center">
+  <img src="./profile-card.svg" alt="Profile Card">
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xeiculy&show_icons=true&theme=tokyonight&count_private=true" height="150px"  />
-</a>
+<!-- Stack and Activity Cards -->
+<p align="center">
+  <img src="./stack-card.svg" alt="Stack Card" width="340">
+  <img src="https://github-readme-stats.vercel.app/api?username=XeicuLy&show_icons=true&theme=transparent&hide_border=true&bg_color=111827&title_color=ffffff&text_color=9ca3af&icon_color=3b82f6&count_private=true" alt="GitHub Stats" width="340">
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeiculy&count_private=true&layout=compact&theme=tokyonight&hide=CSS" height="150px"/>
-</a>
-<br>
-<br>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Xeiculy&count_private=true&theme=onedark&margin-w=20&no-frame=true&title=Commit,PR,Repo,Issue&column=-1" height="150px" />
-</a>
+<!-- Language Stats (Optional) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeicuLy&layout=compact&theme=transparent&hide_border=true&bg_color=111827&title_color=ffffff&text_color=9ca3af&count_private=true&hide=CSS" alt="Top Languages">
+</p>
+
+---
+
+<p align="center">
+  <i>💡 Check out <a href="https://github.com/xeikit">xeikit</a> - Modern frontend starter toolkit & CLI</i>
+</p>
