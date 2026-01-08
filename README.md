@@ -1,23 +1,76 @@
-# XeicuLy's GitHub Profile
+<div align="center">
 
-<!-- Profile Card -->
-<p align="center">
-  <img src="./profile-card.svg" alt="Profile Card">
-</p>
+# Hi, I'm XeicuLy 👋
 
-<!-- Stack and Activity Cards -->
-<p align="center">
-  <img src="./stack-card.svg" alt="Stack Card" width="340">
-  <img src="https://github-readme-stats.vercel.app/api?username=XeicuLy&show_icons=true&theme=transparent&hide_border=true&bg_color=111827&title_color=ffffff&text_color=9ca3af&icon_color=3b82f6&count_private=true" alt="GitHub Stats" width="340">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Frontend+Engineer+%7C+Project+Leader;Building+Modern+Web+Applications;React+%7C+Vue.js+%7C+TypeScript" alt="Typing SVG" />
 
-<!-- Language Stats (Optional) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeicuLy&layout=compact&theme=transparent&hide_border=true&bg_color=111827&title_color=ffffff&text_color=9ca3af&count_private=true&hide=CSS" alt="Top Languages">
-</p>
+<br>
 
----
+</div>
 
-<p align="center">
-  <i>💡 Check out <a href="https://github.com/xeikit">xeikit</a> - Modern frontend starter toolkit & CLI</i>
-</p>
+## 💼 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Current Focus
+
+Creating **[xeikit](https://github.com/xeikit)** - starter templates with pre-configured linters and tools.
+
+Get started instantly with:
+
+```bash
+npx create-xeikit-app
+```
+
+Browse all templates at **[starter-templates](https://github.com/xeikit/starter-templates)**
+
+</td>
+<td width="50%">
+
+### 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=XeicuLy&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+
+![Profile Detail](./profile-summary-card-output/github/0-profile-details.svg)
+![Stats](./profile-summary-card-output/github/3-stats.svg)
+
+</div>
+
+<br>
+
+## 🎯 Why I Build
+
+> Making frontend development faster by removing repetitive setup work.  
+> Every project deserves a great starting point.
+
+<br>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/XeicuLy)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/XeicuLy)
+
+</div>
