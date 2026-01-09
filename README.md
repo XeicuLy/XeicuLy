@@ -50,12 +50,7 @@ Browse all templates at **[starter-templates](https://github.com/xeikit/starter-
 
 ## 📊 GitHub Activity
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=XeicuLy&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
-
-![Profile Detail](./profile-summary-card-output/github/0-profile-details.svg)
-![Stats](./profile-summary-card-output/github/3-stats.svg)
+![GitHub Profile Card](./profile-summary-card-output/github-profile-card.svg)
 
 </div>
 
