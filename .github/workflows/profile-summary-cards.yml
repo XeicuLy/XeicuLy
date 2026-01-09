@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - master
-  schedule:
-    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
@@ -18,8 +16,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+
+      - name: Generate Profile Card
+        uses: xeikit/github-profile-cards@develop/2026-01-08/add-feat
         with:
-          USERNAME: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: light
