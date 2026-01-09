@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="600" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <style>
+    * { 
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica', 'Arial', sans-serif;
+    }
+    .card-bg { fill: url(#cardGradient); }
+    .text { fill: #24292f; }
+    .text-secondary { fill: #57606a; }
+    .text-bold { font-weight: 700; }
+    .text-semibold { font-weight: 600; }
+    .text-xs { 
+      font-size: 11px; 
+      text-transform: uppercase; 
+      letter-spacing: 1px; 
+      font-weight: 600;
+    }
+    .text-sm { font-size: 13px; }
+    .text-base { font-size: 15px; }
+    .text-lg { font-size: 18px; }
+    .text-xl { font-size: 20px; }
+    .text-2xl { font-size: 26px; }
+    .text-3xl { font-size: 42px; }
+    .accent { fill: #3b82f6; }
+    .divider { 
+      stroke: #d0d7de; 
+      stroke-width: 1.5; 
+      opacity: 0.4; 
+    }
+  </style>
+  
+  <rect class="card-bg" width="100%" height="100%" rx="20"/>
+  
+  
+    <!-- ヘッダーセクション -->
+    
+    <g id="header">
+      <!-- アバター -->
+      <defs>
+        <clipPath id="avatarClip">
+          <circle cx="100" cy="100" r="50"/>
+        </clipPath>
+      </defs>
+      <circle cx="100" cy="100" r="52" fill="#e1e4e8"/>
+      <image href="https://avatars.githubusercontent.com/u/106128913?u=1adf07c51a72bae8b566bffdff5b1b6a500e259c&v=4" x="50" y="50" width="100" height="100" clip-path="url(#avatarClip)"/>
+      
+      <!-- ユーザー情報 -->
+      <text x="180" y="90" class="text text-2xl text-bold">KAKI</text>
+      <text x="180" y="120" class="text-secondary text-base">@XeicuLy</text>
+      
+    </g>
+  
+    
+    <!-- 統計カードセクション -->
+    
+    <g id="stats-cards">
+      <!-- Total Contributions Card -->
+      <g transform="translate(80, 200)">
+        <rect width="260" height="100" rx="12" fill="#f6f8fa"/>
+        <text x="25" y="35" class="text-secondary text-xs">TOTAL CONTRIBUTIONS</text>
+        <text x="25" y="70" class="text text-3xl text-bold accent">1.9k</text>
+        <text x="25" y="90" class="text-secondary text-sm">in the last year</text>
+      </g>
+      
+      <!-- Repos Card -->
+      <g transform="translate(360, 200)">
+        <rect width="125" height="100" rx="12" fill="#f6f8fa"/>
+        <text x="25" y="35" class="text-secondary text-xs">REPOS</text>
+        <text x="25" y="70" class="text text-2xl text-bold">56</text>
+      </g>
+      
+      <!-- Stars Card -->
+      <g transform="translate(505, 200)">
+        <rect width="125" height="100" rx="12" fill="#f6f8fa"/>
+        <text x="25" y="35" class="text-secondary text-xs">STARS</text>
+        <text x="25" y="70" class="text text-2xl text-bold">19</text>
+      </g>
+      
+      <!-- Current Streak Card -->
+      <g transform="translate(650, 200)">
+        <rect width="80" height="100" rx="12" fill="#f6f8fa"/>
+        <text x="20" y="35" class="text-secondary text-xs">STREAK</text>
+        <text x="20" y="65" class="text text-xl text-bold">🔥</text>
+        <text x="20" y="90" class="text text-base text-semibold">7w</text>
+      </g>
+      
+      <!-- Longest Streak Card -->
+      <g transform="translate(750, 200)">
+        <rect width="70" height="100" rx="12" fill="#f6f8fa"/>
+        <text x="15" y="35" class="text-secondary text-xs">BEST</text>
+        <text x="15" y="65" class="text text-xl text-bold">🏆</text>
+        <text x="15" y="90" class="text text-base text-semibold">15w</text>
+      </g>
+    </g>
+  
+    
+    <!-- 区切り線 -->
+    <line x1="80" y1="340" x2="820" y2="340" class="divider"/>
+    
+    <!-- 技術スタックセクション -->
+    
+    <g id="tech-stack">
+      <text x="80" y="385" class="text text-lg text-bold">Most Used Languages</text>
+      
+      <g>
+        <!-- 言語名とパーセンテージ -->
+        <text x="80" y="405" class="text text-base text-semibold">TypeScript</text>
+        <text x="820" y="405" class="text-secondary text-sm" text-anchor="end">74.4%</text>
+        
+        <!-- 背景バー -->
+        <rect x="80" y="420" width="740" height="24" rx="6" fill="#f6f8fa"/>
+        
+        <!-- 言語バー -->
+        <rect x="80" y="420" width="550.7808260636479" height="24" rx="6" fill="#3178c6" opacity="0.95">
+          <animate attributeName="width" from="0" to="550.7808260636479" dur="1.5s" fill="freeze"/>
+        </rect>
+      </g>
+    
+      <g>
+        <!-- 言語名とパーセンテージ -->
+        <text x="80" y="470" class="text text-base text-semibold">MDX</text>
+        <text x="820" y="470" class="text-secondary text-sm" text-anchor="end">23.6%</text>
+        
+        <!-- 背景バー -->
+        <rect x="80" y="485" width="740" height="24" rx="6" fill="#f6f8fa"/>
+        
+        <!-- 言語バー -->
+        <rect x="80" y="485" width="174.31949941050712" height="24" rx="6" fill="#fcb32c" opacity="0.95">
+          <animate attributeName="width" from="0" to="174.31949941050712" dur="1.5s" fill="freeze"/>
+        </rect>
+      </g>
+    
+      <g>
+        <!-- 言語名とパーセンテージ -->
+        <text x="80" y="535" class="text text-base text-semibold">JavaScript</text>
+        <text x="820" y="535" class="text-secondary text-sm" text-anchor="end">1.1%</text>
+        
+        <!-- 背景バー -->
+        <rect x="80" y="550" width="740" height="24" rx="6" fill="#f6f8fa"/>
+        
+        <!-- 言語バー -->
+        <rect x="80" y="550" width="7.842217768034014" height="24" rx="6" fill="#f1e05a" opacity="0.95">
+          <animate attributeName="width" from="0" to="7.842217768034014" dur="1.5s" fill="freeze"/>
+        </rect>
+      </g>
+    
+    </g>
+  
+  
+</svg>
