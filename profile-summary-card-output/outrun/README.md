@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/XeicuLy/XeicuLy/master/profile-summary-card-output/outrun/4-productive-time.svg)
+```
+
+    
