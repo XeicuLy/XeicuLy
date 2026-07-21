@@ -42,13 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/XeicuLy/XeicuLy/master/profile-summary-card-output/vue/3-stats.svg)
-```
-
-    
